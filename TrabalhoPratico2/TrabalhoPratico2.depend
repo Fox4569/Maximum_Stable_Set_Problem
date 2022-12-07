@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1641724859 source:c:\users\utilizador\desktop\isec\inteligência artificial\tp2\trabalhopratico2\algoritmo.c
+	<stdio.h>
+	<stdlib.h>
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+	"math.h"
+
+1639670544 c:\users\utilizador\desktop\isec\inteligência artificial\tp2\trabalhopratico2\algoritmo.h
+
+1478082404 c:\users\utilizador\desktop\isec\inteligência artificial\tp2\trabalhopratico2\funcao.h
+
+1638545890 c:\users\utilizador\desktop\isec\inteligência artificial\tp2\trabalhopratico2\utils.h
+
+1641912268 source:c:\users\utilizador\desktop\isec\inteligência artificial\tp2\trabalhopratico2\funcao.c
+	"funcao.h"
+
+1641571872 source:c:\users\utilizador\desktop\isec\inteligência artificial\tp2\trabalhopratico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"algoritmo.h"
+	"utils.h"
+
+1641570876 source:c:\users\utilizador\desktop\isec\inteligência artificial\tp2\trabalhopratico2\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+	<string.h>
+
+1642085683 source:c:\users\user\desktop\isec\iia\tp2\tp2\trabalhopratico2\funcao.c
+	"funcao.h"
+
+1642085816 c:\users\user\desktop\isec\iia\tp2\tp2\trabalhopratico2\funcao.h
+
+1641570878 source:c:\users\user\desktop\isec\iia\tp2\tp2\trabalhopratico2\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+	<string.h>
+
+1638545890 c:\users\user\desktop\isec\iia\tp2\tp2\trabalhopratico2\utils.h
+
+1642086162 source:c:\users\user\desktop\isec\iia\tp2\tp2\trabalhopratico2\algoritmo.c
+	<stdio.h>
+	<stdlib.h>
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+	"math.h"
+
+1642085664 c:\users\user\desktop\isec\iia\tp2\tp2\trabalhopratico2\algoritmo.h
+
+1642086373 source:c:\users\user\desktop\isec\iia\tp2\tp2\trabalhopratico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"algoritmo.h"
+	"utils.h"
+
